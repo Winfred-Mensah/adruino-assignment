@@ -42,8 +42,8 @@ Expected LED behaviour: blinks 5 times, then 4, then 3, then 2, then 1.
 
 ## Author
 
-Emmanuel Kwasi Sarkodie 
+Winfred Sowah Mensah
 
 Bsc Computer Engineering - LV100, Group A.
 
-Index Number 2526400621
+Index Number 2526402217
