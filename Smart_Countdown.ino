@@ -6,7 +6,7 @@
  * count to the Serial Monitor and blinks the on-board LED that many times.
  * When the countdown ends it prints a completion message.
  *
- * Author: Emmanuel Kwasi Sarkodie  (Index 2526400621, Group A)
+ * Author: Winfred Sowah Mensah  (Index 2526402217, Group A)
  * Board : Arduino Uno (built-in LED on pin 13)
  */
 
